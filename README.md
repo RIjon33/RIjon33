@@ -1,4 +1,4 @@
-### Yo! I'm RIjon33 👋
+###                                                                                   Yo! I'm RIjon33 👋
 
 - 🔭 I’m currently a student
 - 🌱 I’m currently learning python & front end development
