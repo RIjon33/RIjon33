@@ -1,4 +1,4 @@
-###                                                                                   Yo! I'm RIjon33 👋
+###       Yo! I'm RIjon33 👋
 
 - 🔭 I’m currently a student
 - 🌱 I’m currently learning python & front end development
@@ -11,4 +11,7 @@
 
 [![RIjon33's GitHub stats](https://github-readme-stats.vercel.app/api?username=RIjon33&theme=dracula)](https://github.com/RIjon33/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RIjon33&layout=compact&theme=dracula)](https://github.com/RIjon33/github-readme-stats)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RIjon33&label=Profile%20views&color=0e75b6&style=flat" alt="RIjon33" /> </p>
