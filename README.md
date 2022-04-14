@@ -7,7 +7,7 @@
 - 💬 Ask me about song
 - 📫 How to reach me: [_Instagram_](https://www.instagram.com/_rijon3/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i like minecraft and song
+- ⚡ Fun fact: i like minecraft and music
 
 [![RIjon33's GitHub stats](https://github-readme-stats.vercel.app/api?username=RIjon33&theme=dracula)](https://github.com/RIjon33/github-readme-stats)
 
